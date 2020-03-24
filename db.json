@@ -1,7 +1,7 @@
 {
 	"house": [
 		{
-			"consumption_point_Id": 1,
+			"id": 1,
     			"consumption_point_name": "Main House",
     			"consumption_point_region": "Athienou",
    	 		"consumption_point_city": "Larnaca",
