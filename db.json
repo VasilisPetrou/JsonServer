@@ -1,4 +1,30 @@
 {
+	"user": [
+		{
+			"id": 1,
+			"customer_type": "Company",
+			"customer_name": "Giorgos Papaioannou",
+			"customer_address": "Pegeias 3",
+			"customer_phone": "",
+			"customer_mobile": "99999999",
+			"customer_fax": "26789034",
+			"customer_billing_address": "Pegeias 3",
+			"customer_email": "company@hotmail.com",
+			"customer_remarks": ""
+		},
+		{
+			"id": 2,
+			"customer_type": "Individual",
+			"customer_name": "Vasilis Petrou",
+			"customer_address": "Meletiou",
+			"customer_phone": "",
+			"customer_mobile":"97647129",
+			"customer_fax": "",
+			"customer_billing_address": "Meletiou",
+			"customer_email": "vpetro01@ucy.ac.cy",
+			"customer_remarks": ""
+		}
+	]	
 	"house": [
 		{
 			"id": 1,
