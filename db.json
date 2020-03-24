@@ -14,7 +14,7 @@
 			"consumption_point_apartment": ""
     		},
 		{
-			"consumption_point_Id": 2,
+			"id": 2,
     			"consumption_point_name": "Country House",
     			"consumption_point_region": "Agros",
    	 		"consumption_point_city": "Limassol",
@@ -27,7 +27,7 @@
 			"consumption_point_apartment": ""
     		},
 		{
-			"consumption_point_Id": 3,
+			"id": 3,
     			"consumption_point_name": "Parents' House",
     			"consumption_point_region": "Pegeia",
    	 		"consumption_point_city": "Pafos",
@@ -40,5 +40,25 @@
 			"consumption_point_apartment": "205"
     		}
 		
+	],
+	"meter": [
+		{
+   			"id": 1,
+			"module_name": "Module 1",
+    			"module_type": "Type 1",
+    			"module_description": "",
+   	 		"meter_type": "Type 2",
+   	 		"meter_serial": "123456789",
+   	 		"meter_description": ""  	
+		},
+		{
+   			"id": 2,
+			"module_name": "Module 2",
+    			"module_type": "Type 3",
+    			"module_description": "",
+   	 		"meter_type": "Type 1",
+   	 		"meter_serial": "987654321",
+   	 		"meter_description": ""  	
+		}
 	]
 }
