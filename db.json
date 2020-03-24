@@ -1,34 +1,44 @@
 {
-	"measurements": [
-		{"measeureTime": 1588186800, "measurement": 45662},
-		{"measeureTime": 1588190400, "measurement": 45704},
-		{"measeureTime": 1588194000, "measurement": 45713},
-		{"measeureTime": 1588197600, "measurement": 45759},
-		{"measeureTime": 1588201200, "measurement": 45799},
-		{"measeureTime": 1588204800, "measurement": 45838},
-		{"measeureTime": 1588208400, "measurement": 45851},
-		{"measeureTime": 1588212000, "measurement": 45886},
-		{"measeureTime": 1588215600, "measurement": 45890},
-		{"measeureTime": 1588219200, "measurement": 45913},
-		{"measeureTime": 1588222800, "measurement": 45919},
-		{"measeureTime": 1588226400, "measurement": 45933},
-		{"measeureTime": 1588230000, "measurement": 45956},
-		{"measeureTime": 1588233600, "measurement": 45957},
-		{"measeureTime": 1588237200, "measurement": 46006},
-		{"measeureTime": 1588240800, "measurement": 46007},
-		{"measeureTime": 1588244400, "measurement": 46037},
-		{"measeureTime": 1588248000, "measurement": 46076},
-		{"measeureTime": 1588251600, "measurement": 46080},
-		{"measeureTime": 1588255200, "measurement": 46095},
-		{"measeureTime": 1588258800, "measurement": 46131},
-		{"measeureTime": 1588262400, "measurement": 46133},
-		{"measeureTime": 1588266000, "measurement": 46158},
-		{"measeureTime": 1588269600, "measurement": 46187},
-		{"measeureTime": 1588273200, "measurement": 46228},
-		{"measeureTime": 1588276800, "measurement": 46275},
-		{"measeureTime": 1588280400, "measurement": 46282},
-		{"measeureTime": 1588284000, "measurement": 46316},
-		{"measeureTime": 1588287600, "measurement": 46347},
-		{"measeureTime": 1588291200, "measurement": 46358}
+	"house": [
+		{
+			"consumption_point_Id": 1,
+    			"consumption_point_name": "Main House",
+    			"consumption_point_region": "Athienou",
+   	 		"consumption_point_city": "Larnaca",
+   	 		"consumption_point_street": "Nikou Kazantzaki",
+   	 		"consumption_point_street_no": "3",
+   	 		"consumption_point_zipcode": "6029",
+   	 		"consumption_point_building_name": "",
+   	 		"consumption_point_building_type": "House",
+			"consumption_point_floor": "",
+			"consumption_point_apartment": ""}
+    		},
+		{
+			"consumption_point_Id": 2,
+    			"consumption_point_name": "Country House",
+    			"consumption_point_region": "Agros",
+   	 		"consumption_point_city": "Limassol",
+   	 		"consumption_point_street": "Glafkou Kliridi",
+   	 		"consumption_point_street_no": "9",
+   	 		"consumption_point_zipcode": "3240",
+   	 		"consumption_point_building_name": "",
+   	 		"consumption_point_building_type": "House",
+			"consumption_point_floor": "",
+			"consumption_point_apartment": ""}
+    		},
+		{
+			"consumption_point_Id": 3,
+    			"consumption_point_name": "Parents' House",
+    			"consumption_point_region": "Pegeia",
+   	 		"consumption_point_city": "Pafos",
+   	 		"consumption_point_street": "Mpananias",
+   	 		"consumption_point_street_no": "2",
+   	 		"consumption_point_zipcode": "5148",
+   	 		"consumption_point_building_name": "Wonder Court",
+   	 		"consumption_point_building_type": "Apartment",
+			"consumption_point_floor": "2",
+			"consumption_point_apartment": "205"}
+    		}
+		
 	]
 }
