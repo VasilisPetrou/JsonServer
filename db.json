@@ -91,7 +91,7 @@
 	],
 	"configuration": [
 		{
-			"id", 1,
+			"id": 1,
             		"configuration_name": "",
             		"configuration_description": "",
             		"configuration_transmitRate": 60,
