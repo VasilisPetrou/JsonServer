@@ -99,7 +99,7 @@
             		"configuration_update": "",
             		"configuration_getMeasurement": "",
             		"configuration_limit": 1500,
-            		"configuration_onVacation": 0,
+            		"configuration_onVacation": 1,
             		"module_id": ""
 		}
 	]
