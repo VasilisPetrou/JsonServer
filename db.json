@@ -88,5 +88,19 @@
    	 		"meter_serial": "987654321",
    	 		"meter_description": ""  	
 		}
+	],
+	"configuration": [
+		{
+			"id", 1,
+            		"configuration_name": "",
+            		"configuration_description": "",
+            		"configuration_transmitRate": 60,
+            		"configuration_imageQuality": "",
+            		"configuration_update": "",
+            		"configuration_getMeasurement": "",
+            		"configuration_limit": 1500,
+            		"configuration_onVacation": 0,
+            		"module_id": ""
+		}
 	]
 }
