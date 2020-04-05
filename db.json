@@ -112,14 +112,5 @@
 				{"consumption_point_name": "Parents' House"}
 			]
 		}
-	],
-	"userviewer": [
-		{
-			"id": 1,
-			"consumption_points": [
-				{"consumption_point_name": "Country House"},
-				{"consumption_point_name": "Parents' House"}
-			]
-		}
 	]
 }
