@@ -39,7 +39,7 @@
    	 		"consumption_point_building_name": "",
    	 		"consumption_point_building_type": "House",
 			"consumption_point_floor": "",
-			"consumption_point_apartment": ""
+			"consumption_point_appartment": ""
     		},
 		{
 			"id": 2,
@@ -52,7 +52,7 @@
    	 		"consumption_point_building_name": "",
    	 		"consumption_point_building_type": "House",
 			"consumption_point_floor": "",
-			"consumption_point_apartment": ""
+			"consumption_point_appartment": ""
     		},
 		{
 			"id": 3,
@@ -65,7 +65,7 @@
    	 		"consumption_point_building_name": "Wonder Court",
    	 		"consumption_point_building_type": "Apartment",
 			"consumption_point_floor": "2",
-			"consumption_point_apartment": "205"
+			"consumption_point_appartment": "205"
     		}
 		
 	],
