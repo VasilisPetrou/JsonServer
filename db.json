@@ -15,16 +15,8 @@
 		},
 		{
 			"id": 2,
-			"customer_type": "Individual",
-			"customer_password": "user",
-			"customer_name": "Vasilis Petrou",
-			"customer_address": "Meletiou",
-			"customer_phone": "",
-			"customer_mobile":"97647129",
-			"customer_fax": "",
-			"customer_billing_address": "Meletiou",
-			"customer_email": "vpetro01@ucy.ac.cy",
-			"customer_remarks": ""
+			"user_email": "aekole@gmail.com",
+            		"full_name": "Vasilis Petrou"
 		}
 	],	
 	"house": [
