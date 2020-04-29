@@ -67,7 +67,7 @@
 			"module_name": "Module 1",
     			"module_type": "Type 1",
     			"module_description": "",
-   	 		"meter_type": "Type 2",
+   	 		"meter_meter_type_id": "Type 2",
    	 		"meter_serial": "123456789",
    	 		"meter_description": ""  	
 		},
